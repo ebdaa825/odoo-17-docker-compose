@@ -24,7 +24,7 @@ services:
     environment:
       - HOST=db
       - USER=odoo
-      - PASSWORD=odoo17@2023
+      - PASSWORD=zizo
     volumes:
       #- /etc/timezone:/etc/timezone:ro
       #- /etc/localtime:/etc/localtime:ro
